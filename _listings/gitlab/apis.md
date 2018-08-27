@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: ""
 tags: Closing
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/apis.md
 specificationVersion: "0.14"
 apis:
@@ -61,6 +61,66 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestsmerge-request-idcloses-issues-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestsmerge-request-idcloses-issues-get-openapi.md
+- name: API title - Get Projects Merge Requests Merge Request Closes Issues
+  x-api-slug: v3projectsidmerge-requestsmerge-request-idcloses-issues-get
+  description: Get projects merge requests merge request closes issues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githlab-logo.png
+  humanURL: http://gitlab.com
+  baseURL: https://localhost:3000//api
+  tags: Orchestration, Code, Static, Versions, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestsmerge-request-idcloses-issues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestsmerge-request-idcloses-issues-get-openapi.md
+- name: API title - Get Projects Merge Requests Merge Request Closes Issues
+  x-api-slug: v3projectsidmerge-requestsmerge-request-idcloses-issues-get
+  description: Get projects merge requests merge request closes issues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githlab-logo.png
+  humanURL: http://gitlab.com
+  baseURL: https://localhost:3000//api
+  tags: Orchestration, Code, Static, Versions, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestsmerge-request-idcloses-issues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestsmerge-request-idcloses-issues-get-openapi.md
+- name: API title - Get Projects Merge Request Merge Request Closes Issues
+  x-api-slug: v3projectsidmerge-requestmerge-request-idcloses-issues-get
+  description: Get projects merge request merge request closes issues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githlab-logo.png
+  humanURL: http://gitlab.com
+  baseURL: https://localhost:3000//api
+  tags: Orchestration, Code, Static, Versions, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestmerge-request-idcloses-issues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestmerge-request-idcloses-issues-get-openapi.md
+- name: API title - Get Projects Merge Request Merge Request Closes Issues
+  x-api-slug: v3projectsidmerge-requestmerge-request-idcloses-issues-get
+  description: Get projects merge request merge request closes issues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githlab-logo.png
+  humanURL: http://gitlab.com
+  baseURL: https://localhost:3000//api
+  tags: Orchestration, Code, Static, Versions, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestmerge-request-idcloses-issues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestmerge-request-idcloses-issues-get-openapi.md
+- name: API title - Get Projects Merge Request Merge Request Closes Issues
+  x-api-slug: v3projectsidmerge-requestmerge-request-idcloses-issues-get
+  description: Get projects merge request merge request closes issues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githlab-logo.png
+  humanURL: http://gitlab.com
+  baseURL: https://localhost:3000//api
+  tags: Orchestration, Code, Static, Versions, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestmerge-request-idcloses-issues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/gitlab/v3projectsidmerge-requestmerge-request-idcloses-issues-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://github.api.gallery.streamdata.io

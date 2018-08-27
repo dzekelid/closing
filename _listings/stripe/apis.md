@@ -9,11 +9,92 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe
 x-kinRank: "10"
 x-alexaRank: "1914"
 tags: Closing
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/stripe/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Stripe - Add Charges Charge Dispute Close
+  x-api-slug: chargeschargedisputeclose-post
+  description: Post Charges, Charge, Dispute, Close
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
+  humanURL: https://stripe.com/
+  baseURL: https://api.stripe.com/v1/
+  tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
+    Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/stripe/chargeschargedisputeclose-post-openapi.md
+- name: Stripe - Add Disputes Dispute Close
+  x-api-slug: disputesdisputeclose-post
+  description: Closing the dispute for a charge indicates that you do not have any
+    evidence to submit and are essentially ???dismissing??? the dispute, acknowledging
+    it as lostThe status of the dispute will change from needs_response to lost. Closing
+    a dispute is irreversible.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
+  humanURL: https://stripe.com/
+  baseURL: https://api.stripe.com/v1/
+  tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
+    Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/stripe/disputesdisputeclose-post-openapi.md
+- name: Stripe - Add Charges Charge Dispute Close
+  x-api-slug: chargeschargedisputeclose-post
+  description: Post Charges, Charge, Dispute, Close
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
+  humanURL: https://stripe.com/
+  baseURL: https://api.stripe.com/v1/
+  tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
+    Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/stripe/chargeschargedisputeclose-post-openapi.md
+- name: Stripe - Add Disputes Dispute Close
+  x-api-slug: disputesdisputeclose-post
+  description: Closing the dispute for a charge indicates that you do not have any
+    evidence to submit and are essentially ???dismissing??? the dispute, acknowledging
+    it as lostThe status of the dispute will change from needs_response to lost. Closing
+    a dispute is irreversible.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
+  humanURL: https://stripe.com/
+  baseURL: https://api.stripe.com/v1/
+  tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
+    Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/stripe/disputesdisputeclose-post-openapi.md
+- name: Stripe - Add Disputes Dispute Close
+  x-api-slug: disputesdisputeclose-post
+  description: Closing the dispute for a charge indicates that you do not have any
+    evidence to submit and are essentially ???dismissing??? the dispute, acknowledging
+    it as lostThe status of the dispute will change from needs_response to lost. Closing
+    a dispute is irreversible.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
+  humanURL: https://stripe.com/
+  baseURL: https://api.stripe.com/v1/
+  tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
+    Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/stripe/disputesdisputeclose-post-openapi.md
+- name: Stripe - Add Charges Charge Dispute Close
+  x-api-slug: chargeschargedisputeclose-post
+  description: Post Charges, Charge, Dispute, Close
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
+  humanURL: https://stripe.com/
+  baseURL: https://api.stripe.com/v1/
+  tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
+    Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/stripe/chargeschargedisputeclose-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://stride.api.gallery.streamdata.io

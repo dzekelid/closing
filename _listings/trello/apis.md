@@ -9,11 +9,151 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Closing
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Trello - Put Boards Closed
+  x-api-slug: boardsidboardclosed-put
+  description: Put boards closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/boardsidboardclosed-put-openapi.md
+- name: Trello - Put Cards Closed
+  x-api-slug: cardsidcardclosed-put
+  description: Put cards closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/cardsidcardclosed-put-openapi.md
+- name: Trello - Put Lists List Closed
+  x-api-slug: listsidlistclosed-put
+  description: Put lists list closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/listsidlistclosed-put-openapi.md
+- name: Trello - Put Boards Closed
+  x-api-slug: boardsidboardclosed-put
+  description: Put boards closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/boardsidboardclosed-put-openapi.md
+- name: Trello - Put Boards Closed
+  x-api-slug: boardsidboardclosed-put
+  description: Put boards closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/boardsidboardclosed-put-openapi.md
+- name: Trello - Put Cards Closed
+  x-api-slug: cardsidcardclosed-put
+  description: Put cards closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/cardsidcardclosed-put-openapi.md
+- name: Trello - Put Cards Closed
+  x-api-slug: cardsidcardclosed-put
+  description: Put cards closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/cardsidcardclosed-put-openapi.md
+- name: Trello - Put Cards Closed
+  x-api-slug: cardsidcardclosed-put
+  description: Put cards closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/cardsidcardclosed-put-openapi.md
+- name: Trello - Put Lists List Closed
+  x-api-slug: listsidlistclosed-put
+  description: Put lists list closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/listsidlistclosed-put-openapi.md
+- name: Trello - Put Lists List Closed
+  x-api-slug: listsidlistclosed-put
+  description: Put lists list closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/listsidlistclosed-put-openapi.md
+- name: Trello - Put Lists List Closed
+  x-api-slug: listsidlistclosed-put
+  description: Put lists list closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/listsidlistclosed-put-openapi.md
+- name: Trello - Put Lists List Closed
+  x-api-slug: listsidlistclosed-put
+  description: Put lists list closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/listsidlistclosed-put-openapi.md
+- name: Trello - Put Cards Closed
+  x-api-slug: cardsidcardclosed-put
+  description: Put cards closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/cardsidcardclosed-put-openapi.md
+- name: Trello - Put Boards Closed
+  x-api-slug: boardsidboardclosed-put
+  description: Put boards closed.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/closing/master/_listings/trello/boardsidboardclosed-put-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://transport.for.london.unified.api.gallery.streamdata.io
